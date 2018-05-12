@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7489
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Aquinas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22295#On-Prayer-and-The-Contemplative-Life
 gutenberg_issued: '2007-08-10'
 gutenberg_type: Text
 identifiers:
