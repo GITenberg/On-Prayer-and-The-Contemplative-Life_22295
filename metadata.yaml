@@ -1,0 +1,36 @@
+_repo: On-Prayer-and-The-Contemplative-Life_22295
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Pope, Hugh
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '25241'
+    url: http://www.gutenberg.org/2009/agents/25241
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomas, Aquinas, Saint
+    alias: Aquinas, Thomas, Saint
+    deathdate: 1274
+    gutenberg_agent_id: '7489'
+    url: http://www.gutenberg.org/2009/agents/7489
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Aquinas
+description: ''
+gutenberg_issued: '2007-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thomas, Aquinas, Saint, 1225?-1274'
+- !lcsh 'Contemplation'
+- !lcsh 'Prayer'
+- !lcc 'BX'
+title: On Prayer and The Contemplative Life
+url: http://www.gutenberg.org/ebooks/22295
